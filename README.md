@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositorio git e github
+# Olá, Mundo
+ Primeiro repositório git e github
+
+Início da jornada 
